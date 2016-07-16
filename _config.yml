@@ -5,14 +5,14 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Amine Sahibi
+title:            Amin S.
 tagline:          'Gulo'
 description:      'Software engineer, waterman, avid reader and aspiring minimalist.'
 url:              https://amines.github.io
 baseurl:          /
 
 author:
-  name:           'Amine Sahibi'
+  name:           'Amin Sahibi'
   url:            https://amines.github.io
 
 # Gems
